@@ -1,10 +1,10 @@
 # Unifi Protect Backup
 
 
-[![pypi](https://img.shields.io/pypi/v/unifi-protect-backup.svg)](https://pypi.org/project/unifi-protect-backup/)
-[![python](https://img.shields.io/pypi/pyversions/unifi-protect-backup.svg)](https://pypi.org/project/unifi-protect-backup/)
-[![Build Status](https://github.com/ep1cman/unifi-protect-backup/actions/workflows/dev.yml/badge.svg)](https://github.com/ep1cman/unifi-protect-backup/actions/workflows/dev.yml)
-[![codecov](https://codecov.io/gh/ep1cman/unifi-protect-backup/branch/main/graphs/badge.svg)](https://codecov.io/github/ep1cman/unifi-protect-backup)
+[![Build Status](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/release.yml/badge.svg)](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/release.yml)
+[![Build Status](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/dev.yml/badge.svg)](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/dev.yml)
+
+**Temporary fork of [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) to resolve build issues with the package for docker deployment.**
 
 A Python based tool for backing up UniFi Protect event clips as they occur.
 
