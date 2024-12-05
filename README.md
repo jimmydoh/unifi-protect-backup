@@ -1,9 +1,10 @@
 # Unifi Protect Backup
 
 
+[![Build Status](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/release.yml/badge.svg)](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/release.yml)
 [![Build Status](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/dev.yml/badge.svg)](https://github.com/jimmydoh/unifi-protect-backup/actions/workflows/dev.yml)
 
-**Fork of [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) to resolve build issues with the package for docker deployment.**
+**Temporary fork of [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) to resolve build issues with the package for docker deployment.**
 
 A Python based tool for backing up UniFi Protect event clips as they occur.
 
