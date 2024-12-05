@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.12.1] - 2024-12-05
 ### Fixed
 - Adjusted release.yml to remove failing PyPi
+- Adjusted Python version to 3.12.8 due to failing setup-python action in build
+- Bumped all workflow actions to most recent versions to reduce warnings from deprecated code
 
 ## [0.12.0] - 2024-08-06
 ### Fixed
